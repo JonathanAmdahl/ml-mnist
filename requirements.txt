@@ -1,0 +1,13 @@
+jupyter
+ipykernel
+numpy
+pandas
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+idx2numpy
+optuna
+opencv-python
+pyheif
+pillow-heif
